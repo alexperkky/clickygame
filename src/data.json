@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "image": "/assets/images/ajstyles.jpg",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "image": "/assets/images/steveaustin.jpg",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "image": "/assets/images/therock.jpg",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "image": "/assets/images/machoman.jpg",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "image": "/assets/images/chrisjericho.jpg",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "image": "/assets/images/kennyomega.jpg",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "image": "/assets/images/kurtangle.jpg",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "image": "/assets/images/razorramon.jpg",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "image": "/assets/images/robvandam.jpg",
+    "clicked": false
+  },
+  {
+    "id": 10,
+    "image": "/assets/images/scottsteiner.jpg",
+    "clicked": false
+  },
+  {
+    "id": 11,
+    "image": "/assets/images/youngbucks.jpg",
+    "clicked": false
+  },
+  {
+    "id": 12,
+    "image": "/assets/images/sabu.jpg",
+    "clicked": false
+  }
+]
